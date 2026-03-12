@@ -1,10 +1,7 @@
 # Olá! Eu sou o Vinícius Souza dos Santos
 
-Sou estudante de desenvolvimento de software pelo **SENAI**, e estagiario da **SWPD**.
-
-Tenho interesse em experiência **Full Stack** e gosto de aprender novas tecnologias e construir projetos que resolvam problemas reais.
-
-
+Sou estudante de desenvolvimento de software pelo SENAI, e estagiario da SWPD.<br> 
+Possuo experiência com as linguagens:
 
 <div style="display: inline_block"><br>
 
@@ -18,7 +15,7 @@ Tenho interesse em experiência **Full Stack** e gosto de aprender novas tecnolo
 
 </div>
 
-
+<br>
 
 <div>
   
@@ -28,7 +25,7 @@ Tenho interesse em experiência **Full Stack** e gosto de aprender novas tecnolo
 
 </div>
 
-
+<br>
 
 <div> 
 
