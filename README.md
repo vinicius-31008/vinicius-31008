@@ -17,7 +17,7 @@ Possuo experiência com as linguagens:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicius-31008&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-31008&layout=compact)
+![Snake animation](https://github.com/vinicius-31008/vinicius-31008/blob/output/github-contribution-grid-snake.svg)
   
   ##
  
