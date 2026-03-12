@@ -1,13 +1,10 @@
-# 👋 Olá! Eu sou o Vinícius Souza dos Santos
+# Olá! Eu sou o Vinícius Souza dos Santos
 
-💻 Estudante de **Desenvolvimento de Software** pelo **SENAI**  
-🚀 Estagiário na **SWPD**
+Sou estudante de desenvolvimento de software pelo **SENAI**, e estagiario da **SWPD**.
 
-Tenho interesse em desenvolvimento **Full Stack** e gosto de aprender novas tecnologias e construir projetos que resolvam problemas reais.
+Tenho interesse em experiência **Full Stack** e gosto de aprender novas tecnologias e construir projetos que resolvam problemas reais.
 
 ---
-
-## 🚀 Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
 
@@ -23,8 +20,6 @@ Tenho interesse em desenvolvimento **Full Stack** e gosto de aprender novas tecn
 
 ---
 
-## 📊 Estatísticas do GitHub
-
 <div>
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-31008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -34,8 +29,6 @@ Tenho interesse em desenvolvimento **Full Stack** e gosto de aprender novas tecn
 </div>
 
 ---
-
-## 🌐 Conecte-se comigo
 
 <div> 
 
