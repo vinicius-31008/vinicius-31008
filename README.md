@@ -1,7 +1,8 @@
-# Hello! I'm Vinícius Souza dos Santos
+# Olá! Eu sou o Vinícius Souza dos Santos 
 
-I am a Software Development student at SENAI and an intern at SWPD.<br>
-I have experience with the following languages:
+Sou estudante de desenvolvimento de software pelo SENAI, e estagiario da SWPD.<br> 
+Possuo experiência com as linguagens:
+
 <div style="display: inline_block"><br>
 
 <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
