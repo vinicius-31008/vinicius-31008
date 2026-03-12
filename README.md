@@ -4,7 +4,7 @@ Sou estudante de desenvolvimento de software pelo **SENAI**, e estagiario da **S
 
 Tenho interesse em experiência **Full Stack** e gosto de aprender novas tecnologias e construir projetos que resolvam problemas reais.
 
----
+
 
 <div style="display: inline_block"><br>
 
@@ -18,7 +18,7 @@ Tenho interesse em experiência **Full Stack** e gosto de aprender novas tecnolo
 
 </div>
 
----
+
 
 <div>
   
@@ -28,7 +28,7 @@ Tenho interesse em experiência **Full Stack** e gosto de aprender novas tecnolo
 
 </div>
 
----
+
 
 <div> 
 
