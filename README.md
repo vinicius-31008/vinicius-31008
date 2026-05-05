@@ -23,15 +23,17 @@ Sou estudante de desenvolvimento de software pelo SENAI, e estagiario da SWPD.
   <img width="12" />
   <img height="40" alt="insomnia logo" src="https://cdn.simpleicons.org/insomnia/5E00D3"/>
   <img width="12" />
+  <img height="40" alt="mysql logo" src="https://skillicons.dev/icons?i=mysql" />
+  <img width="12" />
+  <img height="40" alt="docker logo" src="https://skillicons.dev/icons?i=docker" />
+  <img width="12" />
+  <img height="40" alt="dot-net logo" src="https://skillicons.dev/icons?i=dotnet"  />
+  <img width="12" />
 </div>
 
 # ##
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-31008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-31008&layout=compact&langs_count=7&theme=tokyonight"/>
-  <br>
-  <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinicius-31008&theme=react"/>
 </div>
 
