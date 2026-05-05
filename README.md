@@ -65,5 +65,3 @@ Sou estudante de desenvolvimento de software pelo SENAI, e estagiario da SWPD.
     </a>
   </div>
 </details>
-
-<h2 align="center"></h2>
