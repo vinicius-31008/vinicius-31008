@@ -29,6 +29,8 @@ Sou estudante de desenvolvimento de software pelo SENAI, e estagiario da SWPD.
   <img width="12" />
   <img height="40" alt="dot-net logo" src="https://skillicons.dev/icons?i=dotnet"  />
   <img width="12" />
+  <img height="40" alt="PHP logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="12" />
 </div>
 
 # ##
