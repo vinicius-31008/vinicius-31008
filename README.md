@@ -39,7 +39,7 @@ Sou estudante de desenvolvimento de software pelo SENAI, e estagiario da SWPD.
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinicius-31008&theme=react"/>
 </div>
 
-# ##
+<br>
 
 <details align="center">  
   <summary>
