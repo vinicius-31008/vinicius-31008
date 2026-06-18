@@ -21,15 +21,11 @@ Sou estudante de desenvolvimento de software pelo SENAI, e estagiario da SWPD.
   <img width="12" />
   <img height="40" alt="java logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width="12" />
-  <img height="40" alt="insomnia logo" src="https://cdn.simpleicons.org/insomnia/5E00D3"/>
+  <img height="40" alt="PHP logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img width="12" />
   <img height="40" alt="mysql logo" src="https://skillicons.dev/icons?i=mysql" />
   <img width="12" />
-  <img height="40" alt="docker logo" src="https://skillicons.dev/icons?i=docker" />
-  <img width="12" />
   <img height="40" alt="dot-net logo" src="https://skillicons.dev/icons?i=dotnet"  />
-  <img width="12" />
-  <img height="40" alt="PHP logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img width="12" />
 </div>
 
